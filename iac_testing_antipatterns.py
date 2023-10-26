@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed October 25
+Created on Wednesday October 25th
 
 @author: mehedi.md.hasan
 """
